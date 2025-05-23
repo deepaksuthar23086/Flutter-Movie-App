@@ -25,6 +25,7 @@ Clone the repository and run the following commands:
 flutter pub get
 flutter run
 ```
+https://github.com/deepaksuthar23086/Flutter-Movie-App/blob/master/assets/profile.jpg
 
 ## Screenshots
 
