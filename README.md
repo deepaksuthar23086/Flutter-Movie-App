@@ -26,6 +26,10 @@ flutter pub get
 flutter run
 ```
 
+<video width="320" height="240" controls>
+  <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4" type="video/mp4">
+</video>
+
 <img width="1080" alt="Screen Shot 2022-06-21 at 11 13 06 PM" src="https://github.com/deepaksuthar23086/Flutter-Movie-App/blob/master/assets/profile.jpg">
 ## Screenshots
 
