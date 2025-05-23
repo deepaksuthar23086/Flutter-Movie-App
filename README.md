@@ -26,7 +26,7 @@ flutter pub get
 flutter run
 ```
 
-<video width="320" height="240" controls>
+<video width="1080" height="240" controls>
   <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4" type="video/mp4">
 </video>
 
