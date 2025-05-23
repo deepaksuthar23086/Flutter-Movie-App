@@ -25,8 +25,8 @@ Clone the repository and run the following commands:
 flutter pub get
 flutter run
 ```
-https://github.com/deepaksuthar23086/Flutter-Movie-App/blob/master/assets/profile.jpg
 
+<img width="1080" alt="Screen Shot 2022-06-21 at 11 13 06 PM" src="https://github.com/deepaksuthar23086/Flutter-Movie-App/blob/master/assets/profile.jpg">
 ## Screenshots
 
 <img width="1080" alt="Screen Shot 2022-06-21 at 11 13 06 PM" src="https://user-images.githubusercontent.com/14290499/174878661-94e70742-a72b-47ba-aded-21810da89125.png">
